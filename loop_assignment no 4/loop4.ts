@@ -1,3 +1,6 @@
+// Exploring Objects with for...in Loop
+
+
 // Create a simple object with three items:
 const myObject = {
     item1: "value1",
